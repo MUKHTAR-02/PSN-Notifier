@@ -20,7 +20,7 @@
 ---
 
 ## 📷 Screenshot  
-![PSN Checker Bot Running]<img src="https://github.com/user-attachments/assets/806f08f6-0cca-4a62-afb3-44732a6b7f5a" width="250">
+![PSN Checker Bot Running]<img src="https://github.com/user-attachments/assets/6423a37c-da5e-45f0-a552-d5346604c175" width="250">
 
 ---
 
