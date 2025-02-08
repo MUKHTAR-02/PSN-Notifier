@@ -37,5 +37,5 @@ Feel free to **fork** this project and submit **pull requests**!
 ---
 
 ## 📢 Connect with Me  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/mukhtar02/)
-🔗 **GitHub:** [Your Profile](https://github.com/MUKHTAR-02)  
+🔗 **LinkedIn:** [Mukhtar's LinkedIn](https://www.linkedin.com/in/mukhtar02/)
+🔗 **GitHub:** [Mukhtar's GitHub](https://github.com/MUKHTAR-02)  
