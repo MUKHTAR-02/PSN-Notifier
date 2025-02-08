@@ -11,34 +11,6 @@
 
 ---
 
-## 🛠️ Installation  
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/PSN-Checker-Bot.git
-cd PSN-Checker-Bot
-```
-
-### **2️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Set Up Environment Variables**  
-Create a `.env` file and add your **Telegram Bot Token** & **User ID**:
-```ini
-TELEGRAM_BOT_TOKEN=your_bot_token_here
-TELEGRAM_USER_ID=your_chat_id_here
-```
-
-### **4️⃣ Run the Bot**
-```bash
-python psn_notifier_bot.py
-```
-You’ll receive a **startup message** confirming the bot is running.
-
----
-
 ## 📜 How It Works  
 1. **Starts by notifying you that the bot is running.**  
 2. **Checks PSN status every 5 minutes.**  
@@ -49,12 +21,6 @@ You’ll receive a **startup message** confirming the bot is running.
 
 ## 📷 Screenshot  
 ![PSN Checker Bot Running]<img src="https://github.com/user-attachments/assets/806f08f6-0cca-4a62-afb3-44732a6b7f5a" width="250">
-
----
-
-## 🔒 Security Notes  
-🚫 **Do NOT expose your `.env` file on GitHub!**  
-✅ Add `.env` to `.gitignore` before pushing.  
 
 ---
 
