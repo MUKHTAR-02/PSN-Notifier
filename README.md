@@ -48,7 +48,7 @@ You’ll receive a **startup message** confirming the bot is running.
 ---
 
 ## 📷 Screenshot  
-![PSN Checker Bot Running]([https://your-image-link.com](https://drive.google.com/file/d/1_Sn3vy52EcfRlh5aQvALZ_9xWBrRYvwb/view?usp=drivesdk))  
+![PSN Checker Bot Running]([https://your-image-link.com](https://github.com/user-attachments/assets/8023f6d1-b5b1-4e66-94b7-dcf4d7d66630))
 
 ---
 
